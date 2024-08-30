@@ -3,6 +3,8 @@
 ## Overview
 This Power BI dashboard provides a comprehensive analysis of sales data for Blinkit, India’s Last Minute App. The dashboard offers insights into key performance indicators (KPIs), sales distribution by various dimensions, and trends over time, enabling stakeholders to make data-driven decisions.
 
+[Dashboard Preview](https://github.com/Sooraj1411/BlinkIT-project/blob/main/Screenshot%202024-08-30%20161109.png)
+
 ## Key Features
 - **Total Sales:** $1.20M overall sales displayed for a quick overview.
 - **Average Sales:** $141, showing the average revenue per transaction or item.
